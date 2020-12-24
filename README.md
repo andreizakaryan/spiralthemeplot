@@ -2,3 +2,4 @@ Based on http://diglib.eg.org/bitstream/handle/10.2312/eurovisshort20161170/109-
 
 # Results
 
+![](https://github.com/andreizakaryan/spiralthemeplot/blob/master/img.png)
